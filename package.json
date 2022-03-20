@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^0.23.0",
+    "chalk": "^4.1.2",
+    "db-migrate": "^0.11.13",
+    "db-migrate-pg": "^1.2.2",
+    "dotenv": "^10.0.0",
+    "googleapis": "^89.0.0",
+    "prompts": "^2.4.2"
+  },
+  "scripts": {
+    "install": "",
+    "start": "node ."
+  },
+  "name": "eccountant",
+  "keywords": ["DeFi", "crypto", "wallet", "tracker", "sheet", "googlesheet"],
+  "version": "1.0",
+  "description": "Simple DeFi crypto wallet tracker",
+  "main": "src/index.js",
+  "repository": "https://github.com/f1she3/eccountant.git",
+  "author": "f1she3 <f1she3@protonmail.com>",
+  "license": "MIT",
+  "private": false
+}

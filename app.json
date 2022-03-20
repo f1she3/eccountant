@@ -1,0 +1,28 @@
+{
+  "name": "Eccountant",
+  "description": "Simple DeFi portfolio tracker",
+  "keywords": [
+    "defi",
+    "tracker",
+    "portfolio",
+    "heroku"
+  ],
+  "repository": "https://github.com/f1she3/eccountant.git",
+  "logo": "https://user-images.githubusercontent.com/22454712/159173898-ab37b7db-3553-4429-a2f7-f43061939a7b.png",
+  "env": {
+    "ADDRESS": {
+      "description": "The address of the crypto wallet you want to track."
+    },
+    "SSID": {
+      "description": "This contains the unique id of the google sheet where data will be stored. It has to be shared with your service account."
+    },
+    "SERVICE_ACCOUNT_JSON": {
+      "description": "Place here the full content of your json service account key."
+    }
+  },
+  "addons": [
+    { 
+      "plan": "scheduler:standard"
+    }
+  ]
+}
