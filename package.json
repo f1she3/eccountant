@@ -13,7 +13,14 @@
     "start": "node ."
   },
   "name": "eccountant",
-  "keywords": ["DeFi", "crypto", "wallet", "tracker", "sheet", "googlesheet"],
+  "keywords": [
+    "DeFi",
+    "crypto",
+    "wallet",
+    "tracker",
+    "sheet",
+    "googlesheet"
+  ],
   "version": "1.0",
   "description": "Simple DeFi crypto wallet tracker",
   "main": "src/index.js",
