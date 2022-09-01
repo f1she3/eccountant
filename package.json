@@ -4,7 +4,7 @@
     "chalk": "^5.0.1",
     "db-migrate": "^0.11.13",
     "db-migrate-pg": "^1.2.2",
-    "dotenv": "^16.0.1",
+    "dotenv": "^16.0.2",
     "googleapis": "^107.0.0",
     "prompts": "^2.4.2"
   },
