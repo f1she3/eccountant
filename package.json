@@ -5,7 +5,7 @@
     "db-migrate": "^0.11.14",
     "db-migrate-pg": "^1.5.2",
     "dotenv": "^17.2.0",
-    "googleapis": "^150.0.1",
+    "googleapis": "^152.0.0",
     "prompts": "^2.4.2"
   },
   "scripts": {
