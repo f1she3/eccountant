@@ -447,10 +447,10 @@ googleapis-common@^8.0.0:
     qs "^6.7.0"
     url-template "^2.0.8"
 
-googleapis@^171.3.0:
-  version "171.3.0"
-  resolved "https://registry.yarnpkg.com/googleapis/-/googleapis-171.3.0.tgz#beb188edc40757d53d5b6fe0c980f49f01fe5ae0"
-  integrity sha512-koedQak0LZjogRvb1fD0eWXtZ0K0swJ1BkWGVvpvOA0JKH5q1EUpzHhb/kyCXTBiLMKsara6tueao3kK9jJpBQ==
+googleapis@^171.4.0:
+  version "171.4.0"
+  resolved "https://registry.yarnpkg.com/googleapis/-/googleapis-171.4.0.tgz#aa7b76dcc60ead18ffac2e1909a3e7e053589cf1"
+  integrity sha512-xybFL2SmmUgIifgsbsRQYRdNrSAYwxWZDmkZTGjUIaRnX5jPqR8el/cEvo6rCqh7iaZx6MfEPS/lrDgZ0bymkg==
   dependencies:
     google-auth-library "^10.2.0"
     googleapis-common "^8.0.0"
