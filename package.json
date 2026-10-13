@@ -4,7 +4,7 @@
     "axios": "^1.20.0",
     "db-migrate": "^1.8.0",
     "db-migrate-pg": "^1.5.2",
-    "dotenv": "^18.0.5",
+    "dotenv": "^18.0.7",
     "googleapis": "^185.0.0",
     "prompts": "^2.4.2"
   },
